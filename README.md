@@ -1,8 +1,8 @@
-# Scrabbel
-Scrabbel made using java.
+# Wordle
+Wordle made using java.
 
 **Description:**
-Scrabbel is a Wordle-inspired Java game where you try to guess a hidden 5-letter word. The game gives hints for each guess, making it progressively easier to figure out the word. Can you guess it in 6 tries?
+Wordle is a Wordle-inspired Java game where you try to guess a hidden 5-letter word. The game gives hints for each guess, making it progressively easier to figure out the word. Can you guess it in 6 tries?
 
 **Features:**
 Randomly picks a 5-letter word from a list of words.
